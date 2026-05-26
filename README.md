@@ -1,5 +1,8 @@
 # CVL Assignment 04
 
+Nama: Kukuh Agus Hermawan  
+NIM: 24/533395/PA/22573
+
 Repository ini berisi source code untuk implementasi template-based tracking dan optical flow-based tracking menggunakan sequence DAVIS car-shadow.
 
 ## Metode
